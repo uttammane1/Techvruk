@@ -1,0 +1,18 @@
+body{
+font-family: Arial, sans-serif;
+margin:0;
+}
+
+button{
+margin-right:8px;
+padding:6px 10px;
+cursor:pointer;
+}
+
+@media (max-width: 768px) {
+
+  .layout{
+    grid-template-columns: 1fr !important;
+  }
+
+}
