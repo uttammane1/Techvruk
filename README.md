@@ -51,4 +51,7 @@ This project was developed as a frontend assessment to demonstrate:
 - React Dropzone
 - CSS
 
+<img width="2174" height="1358" alt="Macbook-Air-techvruk-seven vercel app" src="https://github.com/user-attachments/assets/934ae008-103b-4701-a0d9-6b518958a4ea" />
+
+<img width="784" height="1700" alt="iPhone-14-Plus-techvruk-seven vercel app" src="https://github.com/user-attachments/assets/1cc6ef73-e69a-40ee-859d-d66868fc9d7e" />
 
